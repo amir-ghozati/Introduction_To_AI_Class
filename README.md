@@ -10,7 +10,7 @@ Dr. Shahabedin Nabavi
 
 ## TAs:
 
-- [AmirHosein Ghozati](https://github.com/amir-ghozati)
+- [Amirhossein Ghozati](https://github.com/amir-ghozati)
 - [Khashayar Mohammadi](https://github.com/KhashayarM7)
 - [Ali Soleimani](https://github.com/AliSoleimani2001)
 
